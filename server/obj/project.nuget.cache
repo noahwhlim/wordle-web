@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gyy9w8guYYU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Noah\\Documents\\projects\\wordle-web\\server\\server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Noah\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\Noah\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
